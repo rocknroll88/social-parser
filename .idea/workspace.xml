@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd67f016-4095-4dce-b533-e008253f87c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/imangazaliev/didom" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k2mlPPVOk9sYKBf6AmrQBxRX9h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Константин\PhpstormProjects\parser\core" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd67f016-4095-4dce-b533-e008253f87c1" name="Default Changelist" comment="" />
+      <created>1604907210999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604907210999</updated>
+      <workItem from="1604907212107" duration="48892000" />
+      <workItem from="1605165562599" duration="24733000" />
+      <workItem from="1606155630267" duration="23000" />
+      <workItem from="1608656694227" duration="20000" />
+      <workItem from="1612190333730" duration="76000" />
+      <workItem from="1612190564140" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="180" key="#CLI_Interpreters" timestamp="1605086803235">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="180" key="#CLI_Interpreters/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605086803235" />
+    <state x="556" y="221" key="#Directories" timestamp="1605085015436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="556" y="221" key="#Directories/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605085015436" />
+    <state x="2587" y="168" key="#PHP" timestamp="1604908492268">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2587" y="168" key="#PHP/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1604908492268" />
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605187882264">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605003789286" />
+    <state x="2610" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605187882264" />
+    <state x="2647" y="248" key="NewPhpClassDialog" timestamp="1605185596524">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="727" y="248" key="NewPhpClassDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605003812522" />
+    <state x="2647" y="248" key="NewPhpClassDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605185596524" />
+    <state x="2714" y="448" key="NewPhpFileDialog" timestamp="1605180296742">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605110469794" />
+    <state x="2714" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605180296742" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1605086804190">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605086804190" />
+    <state x="2012" y="92" width="1736" height="866" key="dock-window-1" timestamp="1605185223682">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2012" y="92" width="1736" height="866" key="dock-window-1/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605185223682" />
+    <state x="2536" y="243" key="run.anything.popup" timestamp="1605167471072">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2536" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605167471072" />
+  </component>
+</project>

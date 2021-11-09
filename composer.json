@@ -1,0 +1,12 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "imangazaliev/didom": "^1.16"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "ASP\\": "core/"
+        }
+    }
+}
